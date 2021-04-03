@@ -1,6 +1,6 @@
 # ping-pong
 ## Jogo de mesa tipo PingPong 
-* * Foram utilizados:
-*   HTML
-*   JS
-*   CSS
+* Foram utilizados códigos em:
+* *   HTML
+* *   JS
+* *   CSS
